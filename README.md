@@ -1,3 +1,3 @@
-# Highlight.js
+# Highlight.js 
 
-highlight.js package with a custom language set.
+highlight.js package with a custom language set prepared for the RHSC project.
